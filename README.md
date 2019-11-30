@@ -1,0 +1,2 @@
+# Hack
+Hack diamond game
